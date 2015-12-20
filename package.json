@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "async.util.keyiterator": "0.4.2",
-    "async.util.noop": "0.4.2",
+    "async.util.noop": "0.4.3",
     "async.util.once": "0.4.2",
     "async.util.onlyonce": "0.4.2"
   },
